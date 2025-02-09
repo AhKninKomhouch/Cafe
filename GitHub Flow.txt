@@ -25,11 +25,20 @@ ece62-627ba
 7c796-c0126
 a2db4-9b9a3
 
+
+*How to clone file from GitHub*
++ Git guide
+First you need to copy code (HTTPS or SSH) from repository. Then create folder in your device, right click on your new floder then select (Open Git Bash here). After that "MINGW64" will open. Just make sure that you copy the code from repository then type "git clone (past the link) + Enter" boom.
+
+
+
+*How to track file from device to GitHub*
 + Git guide
 type "ls"
 Then, type "git status" to check whether the branch (main) has been added to GitHub.
 then, type "(git add .) + Enter" 
 then check "git status" 
 then, type [git commit -m "Name commit (up to user set the name of data" ex, "First commit"] to check.
-Then write {[(git config --global user.name "Your Name Come here" + Enter) next
-(git config --global user.email "you@yourdomain.example.com" + Enter)]}
+Then write {[(git config --global user.name "AhKninkomhouch" + Enter) next
+(git config --global user.email "kornbonin20@gmail.com" + Enter)]}.
+Finally type "git push" BOOM!
