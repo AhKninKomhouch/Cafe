@@ -25,6 +25,9 @@ ece62-627ba
 7c796-c0126
 a2db4-9b9a3
 
+* Downlaod Git Here *
+ https://git-scm.com/downloads
+
 
 *How to clone file from GitHub*
 + Git guide
