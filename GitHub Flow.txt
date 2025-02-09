@@ -1,41 +1,14 @@
-+ Gmail
-Email: kornbonin20@gmail.com
-Password: Bonin8090
-
-+ GitHub Info
-Email: kornbonin20@gmail.com
-Password: 3:6IE=Ail£34K$P
-
-+ GitHub-recovery-codes
-
-f7469-71b44
-fd287-e6113
-9a1ac-0a40b
-77c86-6e348
-d10d9-d94cf
-be46a-c624f
-ae7da-45434
-59e24-ed30c
-4c573-6cc21
-6f17f-9e37f
-63e64-7f7b8
-7b313-8c1d5
-ece62-627ba
-0e3f2-075e6
-7c796-c0126
-a2db4-9b9a3
-
-* Downlaod Git Here *
+* Download Git Here *
  https://git-scm.com/downloads
 
 
-*How to clone file from GitHub*
+*How to clone files from GitHub*
 + Git guide
-First you need to copy code (HTTPS or SSH) from repository. Then create folder in your device, right click on your new floder then select (Open Git Bash here). After that "MINGW64" will open. Just make sure that you copy the code from repository then type "git clone (past the link) + Enter" boom.
+First, you need to copy code (HTTPS or SSH) from the repository. Then create a folder in your device, right-click on your new folder then select (Open Git Bash here). After that "MINGW64" will open. Just make sure that you copy the code from the repository then type "git clone (past the link) + Enter" boom.
 
 
 
-*How to track file from device to GitHub*
+*How to track files from the device to GitHub*
 + Git guide
 type "ls"
 Then, type "git status" to check whether the branch (main) has been added to GitHub.
@@ -44,4 +17,4 @@ then check "git status"
 then, type [git commit -m "Name commit (up to user set the name of data" ex, "First commit"] to check.
 Then write {[(git config --global user.name "AhKninkomhouch" + Enter) next
 (git config --global user.email "kornbonin20@gmail.com" + Enter)]}.
-Finally type "git push" BOOM!
+Finally, type "git push" BOOM!
